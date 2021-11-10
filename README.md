@@ -1,3 +1,3 @@
-# AR-Labs > Vuforia Lab @ iRVA
+# AR-Labs > Vuforia Lab
 
 https://youtu.be/GuEOVWEZxXg
